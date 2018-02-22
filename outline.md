@@ -9,8 +9,8 @@ You're the dedicated champion for inner source in your company.
 What do you do now?
 How do you realistically affect the behavior of dozens or hundreds of teams to the point where robust and pervasive inner sourcing is a normal part of the way that engineering is done?
 
-This presentation shares principles, practical experience, and relatable examples on this situation.
-While not claiming all of the answers, it is insightful summary of over a year's experience and work in the area.
+This presentation shares principles, practical anecdotes, and relatable examples on this situation gleaned from experience at Nike.
+While not claiming all of the answers, it is insightful summary of over a year of work in the area.
 
 ## Detailed description
 
