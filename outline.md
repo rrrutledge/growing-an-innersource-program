@@ -12,6 +12,10 @@ How do you realistically affect the behavior of dozens or hundreds of teams to t
 This presentation shares principles, practical anecdotes, and relatable examples on this situation gleaned from experience at Nike.
 While not claiming all of the answers, it is insightful summary of over a year of work in the area.
 
+## Audience
+This presentation will be given at [the ISC Spring Summit](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2018-agenda/).
+It is intended for those that are evangelizing inner source in a specific company.
+
 ## Detailed description
 
 #### Outline
