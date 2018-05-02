@@ -41,7 +41,7 @@ We'll also share a few patterns unique to inner source rollout including:
 
 * Run your inner source program as inner source projects.
 * Do (or say) nothing save it is documented.
-* Program growth/maturity progression starts with facilitating any synchronous, in-person collaboration then grows to facilitating asynchronous, mainline coding collaboration.
+* Program growth/maturity progression starts with facilitating any synchronous, in-person, side-project talking collaboration then grows to facilitating asynchronous, main-project coding collaboration.
 
 After explaining these principles with clear words and real anecdotes, we'll summarize the current state of our inner source program, where we're hoping it will go, and how we aim to get there. We'll express our hope to learn from and work with everyone present via open dialogue and sharing in the inner source commons.
 
