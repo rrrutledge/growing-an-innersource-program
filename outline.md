@@ -2,6 +2,11 @@
 
 45 min
 
+## Audience
+
+This presentation will be given at [the ISC Spring Summit](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2018-agenda/).
+It is intended for those that are evangelizing inner source internally for their specific company.
+
 ## Short Description
 
 "Inner source is a great idea! Go do inner source!"
@@ -10,21 +15,18 @@ What do you do now?
 How do you realistically affect the behavior of dozens or hundreds of teams to the point where robust and pervasive inner sourcing is a normal part of the way that engineering is done?
 
 This presentation shares principles, practical anecdotes, and relatable examples on this situation gleaned from experience at Nike.
-While not claiming all of the answers, it is insightful summary of over a year of work in the area.
-
-## Audience
-This presentation will be given at [the ISC Spring Summit](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2018-agenda/).
-It is intended for those that are evangelizing inner source in a specific company.
+While not claiming all of the answers, it summarizes the learnings of over a year of work in the area.
 
 ## Detailed description
 
 #### Outline
 
-An inner source program is the set of tools, documentation, training, and so forth provided so that any team can participate in inner source effectively as either a maintainer or contributor.
+Participation in inner source requires real amounts of care and feeding to be effective.
+An inner source program is the set of tools, documentation, and training provided so that any team can participate in inner source effectively.
 To frame the talk, we'll explain the goals of an inner source program as well as the context within-which we've begun to pursue those goals.
 Even though the learning in this presentation is occurring in that context, we suspect that much of what's here applies generally.
 
-When building an inner source program you should have a vision of what services you will provide to facilitate inner sourcing _as well as_ a strategy you will employ to roll out and make effective these services in your organization.
+When building an inner source program you should have a vision of what you will provide to facilitate inner sourcing _as well as_ a strategy you will employ to roll out and make effective these services in your organization.
 We'll explain principles, resources, and specific examples that can aid and guide in doing so.
 
 The services of the inner source program should provide two things.
@@ -53,7 +55,7 @@ After explaining these principles with clear words and real anecdotes, we'll sum
 
 After attending this presentation, we hope that viewers will:
 
+* Gain ideas on how to roll out an inner source program.
 * Understand the suggested purposes and principles of an inner source program.
 * Understand the suggested component parts of an inner source program and their principles.
-* Gain ideas on how to roll out an inner source program.
 * Be excited to work together on their inner source program via the ISC.
