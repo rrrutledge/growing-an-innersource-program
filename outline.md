@@ -44,6 +44,33 @@ The rollout of an inner source program is similar to the rollout of any large, g
 You can start the initiative with _any_ of the aforementioned services and add more services to it as needed over time.
 Documented patterns in this area (well-summarized in [the Fearless Change series](http://www.fearlesschangepatterns.com/)) apply and work.
 We'll review real examples of how these patterns played out in our journey.
+We've used many others from the book, but some of the more-notable include:
+
+* **Personal Touch**.
+_To convince people of the value in a new idea, show how it can be personally useful and valuable to them_.
+* **Tailor Made**.
+_To convince people in the organization of the value they can gain from the new idea, tailor your message to the needs of the organization_.
+* **Smell of Success**.
+_When your efforts result in some visible positive result, people will come out of the woodwork to talk to you.
+Treat this opportunity as a teaching moment_.
+* **Sustained Momentum**.
+_Take a pro-active approach to the ongoing work of sustaining the interest in the new idea in your organization_.
+* **Step by Step**.
+_Relieve your frustration at the enormous task of changing an organization by taking one small step at a time toward your goal_.
+* **Just Enough**.
+_To ease learners into the more difficult concepts of a new idea, give a brief introduction and then make more information available when they are ready_.
+* **Test the Waters**.
+_When a new opportunity presents itself, see if there is any interest by using some of the patterns in this language and then evaluating the result_.
+* **Involve Everyone**.
+_For a new idea to be successful across an organization, everyone should have an opportunity to support the innocation and make his own unique contribution_.
+
+There are a few patterns that we've been using that are not specific to inner source nonetheless don't appear to have a clear entry in _Fearless Change_.  These are:
+
+* **Opt In**.
+_Increase the spread of the new idea by making it more desirable and useful for people to voluntarily opt in to its usage_. 
+* **Grass Roots**.
+_Visibility and support for the new idea should only be pushed in the management hierarchy as high as there is already a matching breadth of support_.
+
 We'll also share a few patterns unique to inner source rollout including:
 
 * Run your inner source program as inner source projects.
