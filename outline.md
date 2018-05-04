@@ -41,6 +41,7 @@ Examples of these services include:
 * Curated training on the above software and documentation.
 
 The rollout of an inner source program is similar to the rollout of any large, grass-roots initiative.
+You can start the initiative with _any_ of the aforementioned services and add more services to it as needed over time.
 Documented patterns in this area (well-summarized in [the Fearless Change series](http://www.fearlesschangepatterns.com/)) apply and work.
 We'll review real examples of how these patterns played out in our journey.
 We'll also share a few patterns unique to inner source rollout including:
