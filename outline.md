@@ -62,7 +62,7 @@ _To ease learners into the more difficult concepts of a new idea, give a brief i
 * **Test the Waters**.
 _When a new opportunity presents itself, see if there is any interest by using some of the patterns in this language and then evaluating the result_.
 * **Involve Everyone**.
-_For a new idea to be successful across an organization, everyone should have an opportunity to support the innocation and make his own unique contribution_.
+_For a new idea to be successful across an organization, everyone should have an opportunity to support the innovation and make his own unique contribution_.
 
 There are a few patterns that we've been using that are not specific to inner source nonetheless don't appear to have a clear entry in _Fearless Change_.  These are:
 
