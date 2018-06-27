@@ -1,10 +1,10 @@
 ## Growing an Inner Source Program
 
-45 min
+25 min
 
 ## Audience
 
-This presentation will be given at [the ISC Spring Summit](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2018-agenda/).
+This presentation will be given at [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/71280).
 It is intended for those that are evangelizing inner source internally for their specific company.
 
 ## Short Description
